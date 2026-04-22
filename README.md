@@ -96,14 +96,6 @@ Escríbeme: [fraediaz@icloud.com](mailto:fraediaz@icloud.com)
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fraediaz&show_icons=true&hide_border=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fraediaz&layout=compact&hide_border=true&theme=tokyonight" height="165" />
-</p>
-
----
 
 ## Contacto
 
